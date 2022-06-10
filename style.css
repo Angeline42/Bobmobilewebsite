@@ -4,6 +4,7 @@
 
 h1 {
   text-transform: uppercase;
+  display: block;
 }
 
 /* Banner styles*/
